@@ -1,58 +1,88 @@
-# SkillBridge
+# SkillBridge 🎓💼
 
-### Portal for Academia–Industry Collaboration for Skill Mapping, Internships and Placement
+### Portal for Academia–Industry Collaboration for Skill Mapping, Internships & Placement
 
-SkillBridge is a web-based platform designed to reduce the gap between **academic learning and industry requirements**.
+SkillBridge is a web-based platform designed to reduce the gap between **academic learning and industry requirements** by connecting Students, Academia, and Industry on a single platform.
 
-It connects **Students, Academia, and Industry** on a single platform for skill assessment, skill-gap analysis, internships, projects, and placement opportunities.
+## 🚀 Live Demo
+
+🌐 **Website:** https://skillbridge-two-pied.vercel.app/
+
+💻 **GitHub:** https://github.com/techofliger/SkillBridge
 
 ---
 
-## 🚀 Key Features
+## 🎯 Problem
+
+There is a significant gap between the skills students acquire in academic institutions and the competencies expected by industries.
+
+Students often struggle to:
+- Identify the skills required for their desired career.
+- Understand their skill gaps.
+- Find relevant internships and projects.
+- Discover suitable placement opportunities.
+
+Academia often has limited visibility into current industry requirements, while industries face difficulties finding candidates with relevant skills.
+
+---
+
+## 💡 Solution
+
+SkillBridge provides a common platform for **Students, Academia, and Industry**.
 
 ### 👨‍🎓 Students
-- Skill assessment and profiling
-- Technical and soft-skill evaluation
-- Skill-gap identification
-- Recommended career paths
-- Industry-relevant skill mapping
-- Internship and project opportunities
+- Skill assessment
+- Skill gap analysis
+- Career-oriented skill mapping
+- Internship discovery
+- Project opportunities
 - Placement opportunities
-- Application tracking
 
 ### 🏫 Academia
-- View student skill profiles
-- Identify common skill gaps
-- Get industry skill insights
-- Support curriculum alignment
-- Connect with industry partners
-- Promote practical learning opportunities
+- Industry skill insights
+- Curriculum alignment
+- Student skill analytics
+- Industry collaboration
+- Internship opportunities
 
 ### 🏢 Industry
-- Define required skills
 - Post internships and projects
-- Find candidates based on skills
+- Define required skills
+- Discover skilled candidates
 - Connect with academic institutions
-- Identify suitable talent
-- Support industry-oriented learning
+- Support placement and recruitment
 
 ---
 
-## 🔄 How SkillBridge Works
+## ✨ Key Features
+
+- 📊 Skill Assessment
+- 🧠 Skill Gap Analysis
+- 🗺️ Industry Skill Mapping
+- 🎯 Career & Job Role Matching
+- 💼 Internship Opportunities
+- 🛠️ Industry Projects
+- 🎓 Placement Opportunities
+- 🏫 Academia–Industry Collaboration
+- 📈 Skill & Opportunity Dashboard
+
+---
+
+## 🔄 How It Works
 
 ```text
 Student / Academia / Industry
             ↓
-      Skill Assessment
+       User Profile
             ↓
-       Skill Profile
+     Skill Assessment
             ↓
       Skill Gap Analysis
             ↓
-    Industry Skill Mapping
+       Skill Mapping
             ↓
- Internship / Project / Job Matching
+Career / Internship / Project Matching
             ↓
-       Apply & Connect
+       Apply / Connect
             ↓
-   Academia–Industry Collaboration
+     Industry Collaboration
