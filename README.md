@@ -6,7 +6,7 @@ SkillBridge is a web-based platform designed to reduce the gap between **academi
 
 ## 🚀 Live Demo
 
-🌐 **Website:** https://skillbridge-two-pied.vercel.app/
+🌐 **Website:** https://skillbridge-academia.vercel.app/
 
 💻 **GitHub:** https://github.com/techofliger/SkillBridge
 
